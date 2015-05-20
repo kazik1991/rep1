@@ -11,5 +11,5 @@ a = int(input())
 print('Podaj druga liczbe')
 b = int(input())
 
-print(dodawanie(a,b))
+print('Wynik dodawania: ' dodawanie(a,b))
 
